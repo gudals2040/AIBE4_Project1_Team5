@@ -13,3 +13,4 @@ ex)
 - 카카오/구글 로그인 API 연동
 - 프론트와 연동 위한 endpoint 추가 (/auth/social)
 - 사용자 테이블에 provider 컬럼 추가
+asd
